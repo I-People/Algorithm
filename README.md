@@ -23,3 +23,10 @@
 |16|최소 스패닝 트리|[바로가기]()
 |17|트라이|[바로가기]()
 |18|트리디피|[바로가기]()
+
+- - -
+
+# Off-line 문제풀이 현황
+|날짜|1|2|3|4|5|-|코드|
+|---|---|---|---|---|---|---|---|
+|1/4(수)|[숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301?language=javascript)|[햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502?language=javascript#)|[점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)|[행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)|[네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)|-|[성인]() [수경]() [정도](./jeongdo/offline/2023_01_04/) [호정]()|
